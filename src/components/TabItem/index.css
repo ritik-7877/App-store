@@ -1,0 +1,23 @@
+.each-button-container {
+  background-color: #ffffff;
+  color: #7b8794;
+  list-style: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: solid;
+}
+
+.tab-button {
+  border-width: 0px;
+  cursor: pointer;
+  font-size: 18px;
+  background-color: #ffffff;
+  font-family: bree-serif;
+  font-weight: 500;
+}
+
+.active-tab-btn {
+  color: #2563eb;
+}

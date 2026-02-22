@@ -1,0 +1,19 @@
+.app-item {
+  background-color: #ffffff;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 24px;
+  padding-bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 12px;
+  border-color: 0px;
+  margin: 10px;
+  font-family: Bree Serif;
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+}
